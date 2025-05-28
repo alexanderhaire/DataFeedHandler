@@ -1,0 +1,2 @@
+torch         # PyTorch for the PriceForecaster
+pytest        # for running the test suite
